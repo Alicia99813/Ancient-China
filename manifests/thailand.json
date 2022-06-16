@@ -35,6 +35,12 @@
         "motivation" : "sc:painting",
         "on" : "https://cudl.lib.cam.ac.uk/iiif/MS-FC-00246-00005/canvas/15"
       } ],
+      
+        	"otherContent": [{
+                            	"@type": "sc:AnnotationList",
+                             	"@id": "https://alicia99813.github.io/Ancient-China/annotations/Annotation.json"
+
+         }],
       "@type" : "sc:Canvas",
       "width" : 5594,
       "otherContent" : [ {
