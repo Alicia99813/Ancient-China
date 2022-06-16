@@ -1,0 +1,13 @@
+{
+  "id" : "https://Alicia99813.github.io/Ancient-China/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Alicia99813/Ancient-China project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Alicia99813.github.io/Ancient-China/manifests/thailand.json",
+    "label" : "[Thailand-Ancient Chinese Perspective]"
+  } ]
+}
