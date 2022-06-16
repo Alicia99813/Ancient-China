@@ -43,10 +43,7 @@
          }],
       "@type" : "sc:Canvas",
       "width" : 5594,
-      "otherContent" : [ {
-        "@type" : "sc:AnnotationList",
-        "@id" : "https://services.prod.env.cudl.link/v1/iiif/annotation/MS-FC-00246-00005/15"
-      } ],
+      
       "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-FC-00246-00005/canvas/15",
       "label" : "15",
       "height" : 8961,
