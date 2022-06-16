@@ -38,7 +38,7 @@
       
         	"otherContent": [{
                             	"@type": "sc:AnnotationList",
-                             	"@id": "https://alicia99813.github.io/Ancient-China/annotations/Annotation.json"
+                             	"@id": "https://raw.githubusercontent.com/Alicia99813/Ancient-China/main/annotations/Annotation.json"
 
          }],
       "@type" : "sc:Canvas",
