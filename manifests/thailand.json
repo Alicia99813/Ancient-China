@@ -1,0 +1,55 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Alicia99813.github.io/Ancient-China/manifests/thailand.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Thailand-Ancient Chinese Perspective]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "In ancient China, we call Thailand as \"Xianluo\".",
+    "@language" : "Chinese"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://a0e93e16-d28a-4049-9507-834c4023d780",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "images" : [ {
+        "resource" : {
+          "@type" : "dctypes:Image",
+          "service" : {
+            "profile" : "http://iiif.io/api/image/2/level1.json",
+            "@id" : "https://images.lib.cam.ac.uk/iiif/MS-FC-00246-00005-000-00015.jp2",
+            "@context" : "http://iiif.io/api/image/2/context.json"
+          },
+          "format" : "image/jpg",
+          "width" : 5594,
+          "@id" : "https://images.lib.cam.ac.uk/iiif/MS-FC-00246-00005-000-00015.jp2",
+          "height" : 8961
+        },
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "on" : "https://cudl.lib.cam.ac.uk/iiif/MS-FC-00246-00005/canvas/15"
+      } ],
+      "@type" : "sc:Canvas",
+      "width" : 5594,
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://services.prod.env.cudl.link/v1/iiif/annotation/MS-FC-00246-00005/15"
+      } ],
+      "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-FC-00246-00005/canvas/15",
+      "label" : "15",
+      "height" : 8961,
+      "related" : {
+        "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-FC-00246-00005",
+        "label" : "Yi yu tu zhi (FC.246.5)",
+        "format" : ""
+      }
+    } ]
+  } ],
+  "structures" : [ ]
+}
